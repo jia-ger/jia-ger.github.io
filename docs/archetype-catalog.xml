@@ -4,13 +4,13 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <archetypes>
         <archetype>
-            <groupId>io.github.fuzhengwei</groupId>
+            <groupId>io.github.jia-ger</groupId>
             <artifactId>ddd-scaffold-lite-jdk17</artifactId>
             <version>1.5</version>
             <description>ddd scaffold lite ddd jdk 17 by xiaofuge</description>
         </archetype>
         <archetype>
-            <groupId>cn.bugstack.ai</groupId>
+            <groupId>hyj.ai</groupId>
             <artifactId>ai-agent-scaffold-lite-archetype</artifactId>
             <version>1.1</version>
             <description>Parent pom providing dependency and plugin management for applications built with Maven</description>
